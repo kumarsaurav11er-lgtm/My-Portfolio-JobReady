@@ -6,7 +6,7 @@ A clean and responsive personal portfolio website built using only HTML and CSS.
 
 ## 🌐 Live Demo
 
-🔗 Live Website: [https://app.netlify.com/teams/kumarsaurav11er-lgtm/projects](precious-kitsune-7b84d5.netlify.app)
+🔗 Live Website: [https://app.netlify.com/teams/kumarsaurav11er-lgtm/projects](https://precious-kitsune-7b84d5.netlify.app/)
 
 ---
 
